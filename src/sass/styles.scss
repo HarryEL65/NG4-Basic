@@ -1,0 +1,15 @@
+@import './variables';
+@import './mixins';
+//@import '../../node_modules/@angular/material/prebuilt-themes/indigo-pink.css';
+
+body {
+    background-color: #eee;
+    color: #800;
+    p {
+        color: #008;
+    }
+    h1 {
+        font-size: 32px;
+        color: red;
+    }
+}
